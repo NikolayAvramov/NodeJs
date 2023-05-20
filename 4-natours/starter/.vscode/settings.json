@@ -1,0 +1,7 @@
+{
+    "prettier.tabWidth": 4,
+    "files.autoSave": "afterDelay",
+    "editor.formatOnSaveMode": "file",
+    "prettier.arrowParens": "avoid",
+    "editor.formatOnSave": true
+}
